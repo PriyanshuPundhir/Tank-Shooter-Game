@@ -1,0 +1,15 @@
+# Blender MTL File: 'water tank.blend'
+# Material Count: 1
+
+newmtl water_tank
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 1.500000 texture water tank\\normal.png
+map_Kd texture water tank\\colour.png
+map_Ns texture water tank\\roughness.png

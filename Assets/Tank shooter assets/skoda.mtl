@@ -1,0 +1,55 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+newmtl 02_-_Default
+Ka  0.3 0.4 0.2
+Kd  0.3 0.4 0.2
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Metal_Black_Plain
+Ka  0.0 0.0 0.0
+Kd  0.4 0.4 0.4
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  14.1
+illum 2
+#
+newmtl 04_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__137 (2) to come 
+#
+newmtl bronze
+Ka  0.7 0.6 0.3
+Kd  0.7 0.6 0.3
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 15_-_Default
+Ka  0.8 0.8 0.5
+Kd  0.8 0.8 0.5
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__137 done 
+#
+newmtl 15_-_Default
+Ka  0.8 0.8 0.5
+Kd  0.8 0.8 0.5
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+# EOF
